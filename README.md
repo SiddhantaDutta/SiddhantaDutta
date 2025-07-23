@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddhantaDutta&theme=midnight-purple" alt="My Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameSiddhantaDutta&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddhantaDutta&theme=midnight-red" alt="My Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantaDutta&theme=midnight-red" alt="Top Languages" />
 </div>
 
 
